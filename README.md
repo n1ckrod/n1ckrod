@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hey, I’m Nico 👋
 
-<!--
-**n1ckrod/n1ckrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS @ Texas A&M (’27)  
+💻 Software • Machine Learning • Systems  
+📍 Based in Frisco, TX  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m Working On
+- ML research using **XGBoost + TensorFlow** for TOF-MS data  
+- Real-time **air quality data integration** for scientific analysis  
+- C++ performance engineering projects
+
+---
+
+### Technologies I Use
+**Languages:** Python, C++, C, Java, SQL  
+**Frameworks:** TensorFlow, Scikit-learn, XGBoost, React  
+**Core:** DS&A, Systems, ML, Architecture
+
+---
+
+### Featured Projects
+- **C++ Backtesting Engine** → custom strategies, metrics, portfolio simulation  
+- **Portfolio Website** → responsive, fast, clean UI
+
+---
+
+### Connect
+📧 n1ckrod@tamu.edu  
+🔗 linkedin.com/in/nicholasrodriguez  
