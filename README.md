@@ -12,9 +12,6 @@
 <a href="https://linkedin.com/in/nico-rodriguez564" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" />
 </a>
-<a href="https://instagram.com/n1ckrod" target="_blank" style="margin-left: 8px;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" />
-</a>
 <a href="mailto:rodriguez.nicholas.564@gmail.com" target="_blank" style="margin-left: 8px;">
   <img src="https://img.shields.io/badge/Email-rodriguez.nicholas.564%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
 </a>
