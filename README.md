@@ -58,7 +58,3 @@
 ---
 
 ### 📫 Reach out to me at **rodriguez.nicholas.564@gmail.com**
-
----
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n1ckrod" alt="n1ckrod" /></a> </p>
